@@ -1,0 +1,29 @@
+# 🎓 Campus Lost & Found Telegram Bot
+
+A lightweight, automated Telegram bot built with Python and SQLite3 designed to help university students quickly report and recover lost items on campus. Hosted 24/7 on PythonAnywhere.
+
+---
+
+## ✨ Features
+- 🔍 **Report Lost Items:** Students can submit reports with category, location, and contact info.
+- 🎒 **Report Found Items:** Instant cataloging of items found across campus.
+- 🗄️ **SQLite3 Storage:** Lightweight database for persistent storage of active reports.
+- 👨‍💼 **Admin Oversight:** Direct notification channel for student representatives to review matches.
+
+---
+
+## 🛠️ Tech Stack
+- **Language:** Python 3.x
+- **Framework:** `python-telegram-bot`
+- **Database:** SQLite3
+- **HTTP Client:** `httpx`
+- **Hosting:** PythonAnywhere
+
+---
+
+## 🚀 Local Setup & Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Mintes1011/campus-lost-and-found-bot.git](https://github.com/Mintes1011/campus-lost-and-found-bot.git)
+   cd campus-lost-and-found-bot
